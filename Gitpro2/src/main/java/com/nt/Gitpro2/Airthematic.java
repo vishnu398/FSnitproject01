@@ -8,7 +8,10 @@ public class Airthematic {
 	}
 	
 	public double  sub(double x,double y) {
+
 		// sumstration one from another
+		// performing substraction
+
 		return x-y;
 	}
 }
