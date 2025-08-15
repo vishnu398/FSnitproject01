@@ -8,4 +8,8 @@ public class UpiPayment {
 		return a+"amount";
 	}
 
+	
+	public String doPaymentUsingGpay(double a) {
+		return a+"amount";
+	}
 }
