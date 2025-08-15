@@ -4,6 +4,15 @@ public class Lightpay {
 
 	
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	public String doPhonepaylight() {
 		return "light pay";
 		
