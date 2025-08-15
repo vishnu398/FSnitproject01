@@ -1,0 +1,11 @@
+package com.nt.payment;
+
+public class UpiPayment {
+	
+	
+	
+	public String doPaymentUsingPhonpay(double a) {
+		return a+"amount";
+	}
+
+}
