@@ -8,6 +8,7 @@ public class Airthematic {
 	}
 	
 	public double  sub(double x,double y) {
+		// performing substraction
 		return x-y;
 	}
 }
