@@ -12,6 +12,6 @@ public class Airthematic {
 		// sumstration one from another
 		// performing substraction
 
-		return x-y;
+		return x-y; //substraction
 	}
 }
