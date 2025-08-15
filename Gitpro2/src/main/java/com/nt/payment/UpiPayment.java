@@ -12,4 +12,10 @@ public class UpiPayment {
 	public String doPaymentUsingGpay(double a) {
 		return a+"amount";
 	}
+	
+	
+	public String doPaymentUsingPaytem(double a) {
+		return a+"amount";
+	}
+	
 }
